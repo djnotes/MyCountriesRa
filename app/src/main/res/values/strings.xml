@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Countries</string>
+    <string name="message">اکتیویتی پروفایل</string>
+    <string name="message2">پیغام دو</string>
+    <string name="message_part">این یک پیغام است</string>
+    <string name="profile_activity">پروفایل</string>
+    <string name="about_us">درباره ما</string>
+</resources>
